@@ -1,1 +1,1 @@
-                                                              __ReactJS Resources__
+                                                              **ReactJS Resources**
