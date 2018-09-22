@@ -1,4 +1,4 @@
-                                    **<strong>Express.JS</strong>**
+                                    <strong>Express.JS</strong>
                                     
    * [Express.JS](http://expressjs.com/)
    
