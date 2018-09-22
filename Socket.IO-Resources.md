@@ -1,6 +1,6 @@
                           #SOCKET.IO Resource List
                           
- * [SOCKET.IO](www.https://socket.io/) 
+ * [SOCKET_IO](www.https://socket.io/) 
     - This is the main Site for Socket.io's Real-Time Engine.
   
   
