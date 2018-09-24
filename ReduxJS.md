@@ -8,6 +8,7 @@
 * [Redux with React Router](https://redux.js.org/advanced/usagewithreactrouter)
 
 * [Setting up APIs with Redux](https://redux.js.org/api)
-  <br/> 
-  -
-    
+  
+* [Redux-thunk](https://github.com/reduxjs/redux-thunk)
+
+
