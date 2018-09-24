@@ -11,3 +11,5 @@
 * [React Developer Tools for Chrome](https://github.com/facebook/react-devtools)
  
 * [Redux Developer Tools for Chrome](https://github.com/zalmoxisus/redux-devtools-extension)
+  <br/>
+  -Redux can be used without React, but I am currently using it with React, so I just put it here for now, but I think that Redux needs its own folder. 
