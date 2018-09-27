@@ -17,4 +17,7 @@
   
  * [npm](https://www.npmjs.com/package/socket.io) docs of course has some info, too.  
  
- I"ll add more as I use/find them.  
+NOTE: The documentation/codebase for socket.io has multiple repositories: One for each type of project that it offers.  
+
+* [Socket.IO Internals](https://socket.io/docs/internals/) - This has a list of each of the Repos for those projects.
+
