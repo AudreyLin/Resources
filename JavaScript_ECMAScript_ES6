@@ -1,7 +1,15 @@
                                         ** JavaScript * ECMAScript * ES6 * Resources **
  
 * [ECMA Specification github repo](https://github.com/tc39/ecma262) 
+
 * [math related to ECMAscript booleans](https://tc39.github.io/ecma262/#sec-samevaluezero)
+
 * [Javascript Keyed Collections](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Keyed_collections)
+
 * [Javascript Map Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Map)
+
 * [Javascript Iteration Protocols](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols)
+
+* [Javascript Factory Functions](https://medium.com/javascript-scene/javascript-factory-functions-vs-constructor-functions-vs-classes-2f22ceddf33e)
+
+* [Javascript Factory Functions + ES6](https://medium.com/javascript-scene/javascript-factory-functions-with-es6-4d224591a8b1)
