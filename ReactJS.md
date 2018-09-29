@@ -25,3 +25,6 @@
 * [ReactTraining.com - React-Router-4 Dynamic & Static Routing Examples & Info](https://reacttraining.com/react-router/core/guides/philosophy)
 
 * [Another Great Article on React-Router-4 by Emmanuel Yusufu](http://stellarcode.co/beginners-guide-to-react-router-4/)
+
+* [Nested Routing in ReactRouter by Tyler McGinnis](https://tylermcginnis.com/react-router-nested-routes/)
+
