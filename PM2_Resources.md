@@ -1,9 +1,16 @@
                                                   **PM2 Resources **
                                                  
-   [PM2.IO](https://pm2.io/)
-   [PM2Runtime](https://pm2.io/runtime/)
-   [PM2 Blog](https://blog.pm2.io/)
-   [PM2 Pricing](https://pm2.io/pricing/) - The OpenSource Runtime Version is free.  There is an Enterprise version for $30/mth & one that you can have custom build & managed for you.  
+                                                 
+* [PM2.IO](https://pm2.io/)  
+
+
+* [PM2Runtime](https://pm2.io/runtime/)
+
+
+* [PM2 Blog](https://blog.pm2.io/)
+
+
+* [PM2 Pricing](https://pm2.io/pricing/) - The OpenSource Runtime Version is free.  There is an Enterprise version for $30/mth & one that you can have custom build & managed for you.  
    
    
    
