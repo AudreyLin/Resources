@@ -20,5 +20,6 @@
 
 * [2ality JS Blog By Dr. Axel Rauschmayer](http://2ality.com/)
 
-* [Why JavaScript is Weird & Awesome!](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+* [Why JavaScript is Weird & Awesome! from YouTube: LearnCode.Academy](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
 
+* [Javascript Best Practices Resource from SitePoint.com](https://www.sitepoint.com/premium/books/javascript-best-practice/read)
