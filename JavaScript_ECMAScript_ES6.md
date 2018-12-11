@@ -20,3 +20,5 @@
 
 * [2ality JS Blog By Dr. Axel Rauschmayer](http://2ality.com/)
 
+* [Why JavaScript is Weird & Awesome!](https://www.youtube.com/playlist?list=PLoYCgNOIyGABI011EYc-avPOsk1YsMUe_)
+
