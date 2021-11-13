@@ -3,6 +3,7 @@
 ## Wireframes/Workflows/Logic
 
 - [Figma](https://www.figma.com)
+- [How to Export Figma to React](https://www.animaapp.com/blog/design-to-code/how-to-export-figma-to-react/)
 
 ## Color Tools
 
