@@ -11,3 +11,4 @@
 ## Badges
 
 - [shields.io](https://shields.io)
+- [repo-badges repo By dwyl](https://github.com/dwyl/repo-badges)
