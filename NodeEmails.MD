@@ -15,7 +15,8 @@ I have created a separate repo just for the code that I will put up for it. **Co
       - [Udemy Courses-NodeJS_MongoDB_Express](https://www.udemy.com/share/1001NAAkAcc1lVQ3g=/)
       - [YouTube: Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)
       - [http://traversymedia.com/](http://traversymedia.com/)
-      
-
-    
-    
+     
+[How to send email using Gmail API(uses OAuth2 and nodemailer)](https://youtu.be/-rcRf7yswfM)
+  - [Google Cloud Platform](https://console.cloud.google.com)
+  - [Nodemailer OAuth2](https://nodemailer.com/smtp/oauth2/)
+  
